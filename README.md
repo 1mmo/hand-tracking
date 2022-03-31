@@ -1,2 +1,3 @@
-# hand-tracking
-Hand Tracking
+# HandTracinkgMin.py
+A simple hand detector
+
